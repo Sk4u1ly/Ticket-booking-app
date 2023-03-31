@@ -1,0 +1,9 @@
+
+Ticket Details
+
+Ticket Number: 12
+Ticket Price: 500
+Ticket Type: Adult
+Ticket Time: 19:00
+Ticket Block: Right Block
+____________________________________________________________________________________
